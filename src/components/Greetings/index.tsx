@@ -11,10 +11,10 @@ export function Greetings() {
   return (
     <Container>
       <Image
-        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+        src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
         alt="ReactJS logo"
       />
-      <Text>An Electron boilerplate including TypeScript, React, Jest and ESLint.</Text>
+      <Text>a web crawler for major job listing sites</Text>
       <Button onClick={handleSayHello}>Send message to main process</Button>
     </Container>
   )
